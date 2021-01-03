@@ -1,7 +1,7 @@
 TRC Self-guided Nova Awards
 ===========================
 
-Twin Rivers Council is proud to provide detailed instructions for each of the 11 Nova Awards available in the program.
+Twin Rivers Council is proud to provide detailed instructions for each of the 10 Nova Awards available in the program.
 
 You can find the links below. Future additions will include Nova Awards for Cub scouts.
 
