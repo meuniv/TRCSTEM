@@ -12,13 +12,13 @@ Welcome to The **STEM COMMITTEE** of *Twin Rivers Council*
 .. note:: **Council and District Chairs**
 
 	  * Council: `Vincent Meunier <mailto:twinriversstem@gmail.com>`__
-	  * Adirondacks: `Jerry Neff <mailto:jneff8@twcny.rr.com`__
-	  * Fort Orange: `George Hassel <mailto:ghassel@siena.edu`__
-	  * Mohawk: `Barry Pardee <mailto:barry.m.pardee@gmail.com`__
-	  * Turning Point: `Ira Martin <mailto:iramartin@nycap.rr.com`__
-	  * Yankee Doodle: `Jay Bemis <mailto:jrbemis5326@gmail.com`__
+	  * Adirondacks: `Jerry Neff <mailto:jneff8@twcny.rr.com>`__
+	  * Fort Orange: `George Hassel <mailto:ghassel@siena.edu>`__
+	  * Mohawk: `Barry Pardee <mailto:barry.m.pardee@gmail.com>`__
+	  * Turning Point: `Ira Martin <mailto:iramartin@nycap.rr.com>`__
+	  * Yankee Doodle: `Jay Bemis <mailto:jrbemis5326@gmail.com>`__
 
-.. note:: **Role of the STEM Committee Chairs**
+.. note:: **Roles of the STEM Committee Chairs**
    
    * Serve as the representative and spokesperson for the council/chair ’s STEM initiative and the Nova Awards program.
    * Offer personal endorsements and testimony to support the STEM initiative and Nova Awards program.
