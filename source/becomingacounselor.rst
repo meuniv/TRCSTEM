@@ -19,8 +19,8 @@ How to become a Nova Counselor and/or a Supernova Mentor for the TRC?
 
 4) Application forms:
 
-(a) Novaonly:printandcompletetheNovaform attached on page 2 of this document
-(b) Supernovaonly:printandcompletetheSupernova form attached on pages 3-4 of this document
+   (a) Nova only: print and complete th eNova form attached on page 2 of the PDF document
+   (b) Supernova only: print and complete the Supernova form attached on pages 3-4 of the PDF document
 
 All that info should be scanned and sent to `Ruth LaCoss <mailto:Ruth.LaCoss@scouting.org>`__ who will then process it. She will reach out to the chair of the Twin Rivers Council STEM committee (`Vincent Meunier <mailto:TwinRiversStem@gmail.com>`__) or one of his delegates for approval.
 
