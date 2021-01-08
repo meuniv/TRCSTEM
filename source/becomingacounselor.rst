@@ -8,10 +8,10 @@ Application Forms
 
 Download the forms in a single packet from :download:`here <_images/HowTo_Full.pdf>`
 
-BSA provided informaton about Nova counselors and Supernova mentors
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BSA provided information about Nova counselors and Supernova mentors
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-BSA provides information about the program,  including training on this `website `<https://www.scouting.org/stem-nova-awards/volunteer-support/>`__.
+BSA provides information about the program,  including training on this `website <https://www.scouting.org/stem-nova-awards/volunteer-support/>`__.
 
 How to become a Nova Counselor and/or a Supernova Mentor for the TRC?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
