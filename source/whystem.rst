@@ -20,3 +20,7 @@ What Are the STEM Nova Awards?
 The Boy Scouts of America developed the STEM Nova Awards program to excite and expand a sense of wonder in our Scouts. By working with an adult counselor or mentor, the various modules allow them to explore the basic principles of STEM and discover how fun and fascinating STEM can be. The Supernova awards are offered for those who enjoy a super challenge. Discover how the STEM Nova Awards program helps youth be “Prepared. For Life.” 
 
 .. note:: The text on this page is directly obtained from scouting.org. Go to `STEM Website <https://www.scouting.org/stem-nova-awards/awards/>`__ for more information. 
+
+
+Go to Twin Rivers District `website <https://www.trcscouting.org>`_. 	  
+	  

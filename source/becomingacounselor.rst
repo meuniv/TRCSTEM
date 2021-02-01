@@ -36,3 +36,6 @@ All that info should be scanned and sent to `Ruth LaCoss <mailto:Ruth.LaCoss@sco
    2) More information can be found here: https://www.scouting.org/stem-nova-awards/stem-faq/
    3) Note that there is NO FEE for this application.
    4) Please reach out to `TwinRiversStem@gmail.com <mailtoTwinRiversStem@gmail.com>`__ if you have any query.
+
+
+Go to Twin Rivers District `website <https://www.trcscouting.org>`_. 

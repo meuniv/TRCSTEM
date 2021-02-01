@@ -67,3 +67,4 @@ If you find anything to add or change in those documents, let us know!
               :target: https://novadtc.readthedocs.io  
 
  
+Go to Twin Rivers District `website <https://www.trcscouting.org>`_. 

@@ -37,3 +37,6 @@ Welcome to The **STEM COMMITTEE** of *Twin Rivers Council*
    :figclass: align-center
      
    Shoulder Patch Offered by the Committee for all Supernova Award recipients. More on the Supernova awards can be found `here <https://www.scouting.org/stem-nova-awards/awards/>`__. 
+
+
+Go to Twin Rivers District `website <https://www.trcscouting.org>`_. 
