@@ -1,7 +1,7 @@
 TRC STEM Events
 ===============
 
-Spring 2021: Cub Scout Nova Quest (more information soon!). 
+Spring 2021: Cub Scout Nova Quest (more information `here <https://trcscouting.org/cub-stem-camp/>`__). 
 
 
-Go to Twin Rivers District `website <https://www.trcscouting.org>`_. 
+Go to Twin Rivers Council `website <https://www.trcscouting.org>`_. 

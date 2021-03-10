@@ -22,5 +22,5 @@ The Boy Scouts of America developed the STEM Nova Awards program to excite and e
 .. note:: The text on this page is directly obtained from scouting.org. Go to `STEM Website <https://www.scouting.org/stem-nova-awards/awards/>`__ for more information. 
 
 
-Go to Twin Rivers District `website <https://www.trcscouting.org>`_. 	  
+Go to Twin Rivers Council `website <https://www.trcscouting.org>`_. 	  
 	  
